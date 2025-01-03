@@ -1,4 +1,4 @@
-# BM2 Digital Brain Project
+# [Digital Brain Project](https://digitalbrainproject.github.io/home/)
 
 Following the conclusion of the Brain/MINDS project (2014-2024), a new six-year program Multidisciplinary Frontier Brain and Neuroscience Discoveries ([Brain/MINDS 2.0](https://brainminds.jp/en)) has started.
 
@@ -9,9 +9,7 @@ A remarkable feature of this program is that the Digital Brain 「デジタル�
 
 ## Core Organization
 
-RIKEN and seven partner institutions including OIST, ATR and Kyoto University were selected as the [Core Organization](https://brainminds.jp/en/core).
-
-Five PIs form the Digital Brain Group with 6 subprojects.
+RIKEN and seven partner institutions including OIST, ATR and Kyoto University were selected as the [Core Organization](https://brainminds.jp/en/core). The Group 4 is in charge of Digital Brain Development with the following PIs.
 
 * Shin Ishii, Kyoto University
 * Henrik Skibbe, RIKEN CBS
@@ -22,9 +20,9 @@ Five PIs form the Digital Brain Group with 6 subprojects.
 
 ![DigitalBrainCoreGroup](DigitalBrainCore.jpg)
 
-## Priority Resarcg Themes
+## Priority Research Themes
 
-In addition, 97 projects for the priority research themes were accepted, with [16 projects on the Digital Brain](https://brainminds.jp/en/theme4).
+In addition, 97 projects for the priority research themes were accepted, with [16 PIs in Theme 4 on Digital Brain Development](https://brainminds.jp/en/theme4).
 
 * Yuji Ikegaya, University of Tokyo
 * Keiichi Kitajo, National Institute of Natural Sciences
