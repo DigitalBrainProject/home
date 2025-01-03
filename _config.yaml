@@ -1,4 +1,9 @@
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -10,5 +15,5 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: soloarized-light
   
