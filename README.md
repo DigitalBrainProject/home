@@ -16,7 +16,7 @@ RIKEN and seven partner institutions including OIST, ATR and Kyoto University we
 * Saori Tanaka, ATR
 * Kenji Doya, OIST (group head)
 * Jun Igarashi, RIKEN AICS
-* Takuya Isomura, RIKEN CBS (droup subhead)
+* Takuya Isomura, RIKEN CBS (group subhead)
 
 ![DigitalBrainCoreGroup](DigitalBrainCore.jpg)
 
