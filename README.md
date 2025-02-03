@@ -4,7 +4,7 @@ Following the conclusion of the [Brain/MINDS project](https://bm1.brainminds.jp/
 
 A remarkable feature of this program is that the **Digital Brain** plays a central role in integrating structural and dynamic brain data from multiple species for understanding brain functions and tackling neuropsychiatric disorders.
 
-![Brain/MINDS2.0](BM2_COncept.jpg)  
+![Brain/MINDS2.0](BM2_Concept.jpg)  
 
 ## Core Organization
 
@@ -53,6 +53,5 @@ Most of the talks are available on the [YouTube channel](https://www.youtube.com
 
 This ambitious project requires fresh talents from math, computation, AI and brain sciences, as well as broad international collaborations. We have postdoc and technical positions available. If you are interested, please apply by this [application form](https://groups.oist.jp/ncu/oist-neural-computation-unit-job-application-form).
 
-[<img src="banner-brainm-e.png" width="100px">](https://brainminds.jp/en/)
-[![Brain/MINDS 2.0](banner-brainm-e.png) =100x](https://brainminds.jp/en/)
-[![AMED](banner-amed-en.png)](https://www.amed.go.jp/en/index.html)
+[<img src="banner-brainm-e.png" width="200px">](https://brainminds.jp/en/)
+[<img src="banner-amed-en.png" width="200px">](https://www.amed.go.jp/en/)
