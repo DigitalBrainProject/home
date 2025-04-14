@@ -6,6 +6,15 @@ A remarkable feature of this program is that the **Digital Brain** plays a centr
 
 ![Brain/MINDS2.0](BM2_Concept.jpg)  
 
+## Events
+
+* To facilitate discussions about how to build and to utilize digital brains, we organize [**Digital Brain Seminars**](https://digitalbrainproject.github.io/seminar/).
+Most of the talks are available on the [YouTube channel](https://www.youtube.com/@kennakae2779/videos).
+
+* On July 23, 2025, we will organize a [**Symposium: Connecting Digital Brains Across the World**](https://digitalbrainproject.github.io/home/JNS2025satellite.html) as a satellite event for the Japan Neuroscience Society meeting in Toki Messe, Niigata.
+
+* On September 19-21, 2024, we organized [**Digital Brain Workshop**](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
+
 ## Core Organization
 
 RIKEN and seven partner institutions including OIST, ATR and Kyoto University were selected as the [Core Organization](https://brainminds.jp/en/core). The Group 4 is in charge of Digital Brain Development with the following PIs.
@@ -39,13 +48,6 @@ In addition, 97 projects for the priority research themes were accepted, with [1
 * Hiromichi Tsukada, Chubu University
 * Akihiro Funamizu, University of Tokyo
 * Yuichiro Yada, Nagoya University
-
-## Events
-
-* To facilitate discussions about how to build and to utilize digital brains, we organize [*Digital Brain Seminars*](https://digitalbrainproject.github.io/seminar/).
-Most of the talks are available on the [YouTube channel](https://www.youtube.com/@kennakae2779/videos).
-
-* On September 19-21, 2024, we organized [Digital Brain Workshop](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
 
 ## Research positions
 
