@@ -1,4 +1,4 @@
-# The 48th JNS Annual Meeting Satellite Symposium: Connecting Digital Brains Across the World
+# JNS 2025 Satellite Symposium: Connecting Digital Brains Across the World
 
 * Time & Date: 13:00-17:00 JST, Wednesday 23rd, July 2025  
 
