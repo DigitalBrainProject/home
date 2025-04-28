@@ -19,23 +19,22 @@ Attendance is free and the registration page will open soon.
 * Yi Zeng (Chinese Academy of Sciences, China)  
 * Salvador Dura-Bernal (SUNY Downstate Health Sciences University, USA)  
  
-14:00	Session 2: Connecting Data and Models Across the World (chair: Saori Tanaka)  
+14:00	Session 2: Connecting Data and Models Across the World (chair: Yukako Yamane)  
 * Franco Pestilli (University of Texas at Austin, USA)  
-* Takuya Hayashi (RIKEN CBDR, Japan)  
-* Sacha van Albada (Jülich Research Centre, Germany)  
+* Sacha van Albada (Jülich Research Centre, Germany)
+* Saori Tanaka (ATR, Japan)  
  
 14:50	break
 
-15:10	Session 3: Use Cases and Lessons Learned (chair: Yukako Yamane)  
+15:10	Session 3: Use Cases and Lessons Learned (chair: Saori Tanaka)  
 * Jason Ritt (Brown University, USA)  
 * Charissa Poon (RIKEN CBS, Japan)  
 * Michael Denker (Jülich Research Centre, Germany)  
  
 16:00	Session 4: Opportunities, Challenges and Ways Ahead (chair: Ken Nakae)  
-* Takuya Isomura (RIKEN CBS, Japan)  
 * Shinya Ito (Allen Institute, USA)  
-* Saori Tanaka (ATR, Japan)  
- 
+* Takuya Isomura (RIKEN CBS, Japan)  
+
 16:50	Closing
 
 ### Organizers:  
@@ -43,5 +42,9 @@ Kenji Doya (OIST), Carlos Gutierrez (Softbank/OIST), Takuya Isomura (RIKEN CBS),
 Ken Nakae (Fukui University), Saori Tanaka (NAIST/ATR), Yukako Yamane (OIST)
 
 ### Supported by (TBC):  
-* Brain/MINDS 2.0, AMED  
-* International Brain Initiative  
+* [Brain/MINDS 2.0](https://brainminds.jp/en/), [AMED](https://www.amed.go.jp/en/)  
+* [Brain Research International Data Governance & Exchange (BRIDGE)](https://braindatagovernance.org)  
+* [EBRAINS](https://www.ebrains.eu)  
+* [Global Center for AI, Society, and Mental Health](https://www.downstate.edu/research/centers-departments/global-center-ai-society-mental-health/)  
+* [International Brain Initiative](https://www.internationalbraininitiative.org)  
+
