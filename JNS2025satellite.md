@@ -2,7 +2,7 @@
 
 * Time & Date: 13:00-17:00 JST, Wednesday 23rd, July 2025  
 
-* Place: Conference Room, [Toki Messe](https://www.tokimesse.com/english/), Niigata, Japan   
+* Place: Conference Room 301A, [Toki Messe](https://www.tokimesse.com/english/), Niigata, Japan   
 
 At the 2025 Japan Neuroscience Society Meeting, we are organizing [three symposia (1S07m, 2S05m, 2S05a)](https://neuroscience2025.jnss.org/en/program.html#p05) related to the ‘Digital Brain’ by inviting researchers from around the world.  
 
