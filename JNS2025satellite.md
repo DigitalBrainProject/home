@@ -43,10 +43,11 @@ Registration for on-site participation will be closed as the capacity of 100 is 
 Kenji Doya (OIST), Carlos Gutierrez (Softbank/OIST), Takuya Isomura (RIKEN CBS),  
 Ken Nakae (Fukui University), Saori Tanaka (NAIST/ATR), Yukako Yamane (OIST)
 
-### Supported by (TBC):  
+### Supported by:  
 * [Brain/MINDS 2.0](https://brainminds.jp/en/), [AMED](https://www.amed.go.jp/en/)  
 * [Brain Research International Data Governance & Exchange (BRIDGE)](https://braindatagovernance.org)  
 * [EBRAINS](https://www.ebrains.eu)  
 * [Global Center for AI, Society, and Mental Health](https://www.downstate.edu/research/centers-departments/global-center-ai-society-mental-health/)  
-* [International Brain Initiative](https://www.internationalbraininitiative.org)  
+* [International Brain Initiative](https://www.internationalbraininitiative.org)
+* [Japanese Neural Network Society](https://jnns.org/en/)
 
