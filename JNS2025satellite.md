@@ -17,25 +17,32 @@ Registration for on-site participation will be closed as the capacity of 100 is 
 13:00	Introduction: Kenji Doya (OIST, Japan)
 
 13:10	Session 1: Digital Brains: What and How (chair: Carlos Gutierrez)  
-* Viktor Jirsa (Institut de Neurosciences des Systemes, France)  
-* Yi Zeng (Chinese Academy of Sciences, China)  
-* Salvador Dura-Bernal (SUNY Downstate Health Sciences University, USA)  
+* Viktor Jirsa (Institut de Neurosciences des Systemes, France)
+  - Virtual Brain Twins for medicine  
+* Shinya Ito (Allen Institute, USA)
+  - Deep-learning-assisted simulation of a cortical circuit: integrating anatomy, physiology, and function  
  
 14:00	Session 2: Connecting Data and Models Across the World (chair: Yukako Yamane)  
-* Franco Pestilli (University of Texas at Austin, USA)  
+* Franco Pestilli (University of Texas at Austin, USA)
+  - Putting big data and AI to good use in neuroscience
 * Sacha van Albada (Jülich Research Centre, Germany)
-* Saori Tanaka (ATR, Japan)  
+  - Toward more standardized brain modeling to break the complexity barrier
+* Saori Tanaka (ATR, Japan)
+  - A Brain Data Platform for the Digital Brain: Current Status and Future Directions 
  
 14:50	break
 
 15:10	Session 3: Use Cases and Lessons Learned (chair: Saori Tanaka)  
-* Jason Ritt (Brown University, USA)  
-* Charissa Poon (RIKEN CBS, Japan)  
-* Michael Denker (Jülich Research Centre, Germany)  
+* Jason Ritt (Brown University, USA)
+  - Standardized Neuroscience Data Formats and Non-Standardized Scientists
+* Charissa Poon (RIKEN CBS, Japan)
+  - A 3D transcriptomic and connectivity atlas of the adult marmoset brain
  
 16:00	Session 4: Opportunities, Challenges and Ways Ahead (chair: Ken Nakae)  
-* Shinya Ito (Allen Institute, USA)  
-* Takuya Isomura (RIKEN CBS, Japan)  
+* Michael Denker (Jülich Research Centre, Germany)
+  - Kanso, Kaizen, Code: Three thoughts on finding Ikigai of digital brain science infrastructure
+* Takuya Isomura (RIKEN CBS, Japan)
+  - Reverse engineering of generative models for predicting learning
 
 16:50	Closing
 
