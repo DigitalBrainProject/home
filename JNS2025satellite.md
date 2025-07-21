@@ -8,9 +8,9 @@ At the 2025 Japan Neuroscience Society Meeting, we are organizing [three symposi
 
 On the day before the main meeting, we will hold a satellite symposium to bring together speakers from the three symposia and to discuss how to connect different data and models for scientific discoveries and applications. Each session starts with short presentations by the speakers and continues into discussions by all the participants.
 
-Please register from [here](https://forms.office.com/r/7D4KkP8UJe) for free on-site or online participation
+Please register from  **[here](https://forms.office.com/r/7D4KkP8UJe)** for free on-site or online participation
 (JNS meeting registration is not necessary).  
-Registration for on-site participation will be closed as the capacity of 100 is reached.
+Registration is closed Noon JST (UTC+9) July 22nd.
 
 ## Schedule (Tentative)
 
