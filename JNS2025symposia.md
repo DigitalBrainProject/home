@@ -6,7 +6,7 @@
 
 At [The 2025 Japan Neuroscience Society Meeting](https://neuroscience2025.jnss.org/en)
 we are organizing three symposia related to the ‘Digital Brain’ by inviting leading researchers from around the world.  
-We are alos organizing a [Satellite Symposium](https://digitalbrainproject.github.io/home/JNS2025satellite.html) by the speakers of all three symposia on July 23rd.
+We are also organizing a [Satellite Symposium](https://digitalbrainproject.github.io/home/JNS2025satellite.html) by the speakers of all three symposia on July 23rd.
 
 ## How FAIR Data Can Advance Neuroscience? -- Current Trends and Future Perspectives of Creation and Utilization of Databases in Neuroscience
 
