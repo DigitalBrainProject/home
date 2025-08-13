@@ -6,16 +6,12 @@ A remarkable feature of this program is that the **Digital Brain** plays a centr
 
 ![Brain/MINDS2.0](BM2_Concept.jpg)  
 
-## Events
+## Forthcoming Events
 
 * To facilitate discussions about how to build and to utilize digital brains, we organize [**Digital Brain Seminars**](https://digitalbrainproject.github.io/seminar/).
 Most of the talks are available on the [YouTube channel](https://www.youtube.com/@kennakae2779/videos).
 
-* On July 23, 2025, we will organize a [**Satellite Symposium: Connecting Digital Brains Across the World**](https://digitalbrainproject.github.io/home/JNS2025satellite.html) for the Japan Neuroscience Society meeting in Toki Messe, Niigata.
-
-* On July 24 and 25, 2025, we will organize [**Three Symposia on the Digital Brain**](https://digitalbrainproject.github.io/home/JNS2025symposia.html) during the Japan Neuroscience Society meeting in Toki Messe, Niigata.
-
-* On September 19-21, 2024, we organized [**Digital Brain Workshop**](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
+* On October 17-19, 2025, we will organized [**The 2nd Digital Brain Workshop**](https://digitalbrainproject.github.io/workshop/) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
 
 ## Core Organization
 
@@ -32,30 +28,38 @@ RIKEN and seven partner institutions including OIST, ATR and Kyoto University we
 
 ## Priority Research Themes
 
-In addition, 97 projects for the priority research themes were accepted, with [16 PIs in Theme 4 on Digital Brain Development](https://brainminds.jp/en/theme4).
+In addition to the core organization, 22 PIs were selected for [the priority research on Digital Brain Development](https://brainminds.jp/en/theme4).
 
-* Yuji Ikegaya, University of Tokyo
-* Keiichi Kitajo, National Institute of Natural Sciences
-* Yasuharu Koike, Institute of Science Tokyo
-* Ken Nakae, National Institute of Natural Sciences
-* Riichiro Hira, Institute of Science Tokyo
-* Tadashi Yamazaki, U Electro-Communications
-* Yuichi Yamashita, National Center of Neurology and Psychiatry
-* Takuto Okuno, Tokyo Metropolitan University
-* Yukiyasu Kamitani, Kyoto University
-* Carlos Enrique Gutierrez, OIST
-* Zhe Sun, Juntendo University
-* Tomohiko Takei, Tamagawa University
-* Mari Tada, Niigata University
-* Hiromichi Tsukada, Chubu University
-* Akihiro Funamizu, University of Tokyo
-* Yuichiro Yada, Nagoya University
+**From 2024**
+* Yuji Ikegaya, University of Tokyo: External digitization of brain information
+* Keiichi Kitajo, National Institute of Natural Sciences: Data assimilation for neurodevelopmental disorders
+* Yasuharu Koike, Institute of Science Tokyo: Motion and sensation in VR environments
+* Ken Nakae, National Institute of Natural Sciences: Digital twin of common marmoset
+* Riichiro Hira, Institute of Science Tokyo: Large-scale compuational neuroscience by LLM
+* Tadashi Yamazaki, U Electro-Communications: Scaling microcircuits across species and resolutions
+* Yuichi Yamashita, National Center of Neurology and Psychiatry: Mesoscopic digital brain for mental disorders
+* Takuto Okuno, Tokyo Metropolitan University: Virtual neuromodulaton and treatment
+* Yukiyasu Kamitani, Kyoto University: Neural code conversion between indviduals and species
+* Carlos Enrique Gutierrez, OIST: BrainScaler for multi-scale brain modeling
+* Zhe Sun, Juntendo University: Brain simulatoin and deep learning by high-dimensional neural data
+* Tomohiko Takei, Tamagawa University:ANN modeling of movement disorders
+* Mari Tada, Niigata University: Digital atlas of human brain gene expression
+* Hiromichi Tsukada, Chubu University: Data-driven whole brain model for etiology
+* Akihiro Funamizu, University of Tokyo: Hierarchical cyber brain with genes, circuit and behavior
+* Yuichiro Yada, Nagoya University: Abnormal protein accumulation and glia cell network
 
-## Research positions
+**From 2025**
+* Hidehiko Takahashi, Institute of Science Tokyo: Internet addiction and ADHD
+* Taira Kobayashi, Yamaguchi University: Human brain-body simulation
+* Yuta Takahashi, National Center of Neurology and Psychiatry: Micro-macro digital twin brain
+* Yusuke Takeda, ATR: Hallucination and delusion in connectome dynamics models
+* Kosuka Hamaguchi, Kahoshima University: Transitions of decision making circuites
+* Teppei Matsui, Doshisha University: Cross-species brain image translation
 
-[OIST Neural Computation Unit](https://groups.oist.jp/ncu) (prof. Kenji Doya) will take a leading role in developing the software tools for constructing digital brains and their use cases for understanding brain functions, such as reinforcement learning and Bayesian inference, and prediction, intervention, and prevention of neuropsychiatric disorders.
+## Previous events
 
-This ambitious project requires fresh talents from math, computation, AI and brain sciences, as well as broad international collaborations. We have postdoc and technical positions available. If you are interested, please apply by this [application form](https://groups.oist.jp/ncu/oist-neural-computation-unit-job-application-form).
+* On July 23, 2025, we organized a [**Satellite Symposium: Connecting Digital Brains Across the World**](https://digitalbrainproject.github.io/home/JNS2025satellite.html) for the Japan Neuroscience Society meeting in Toki Messe, Niigata.
 
-[<img src="banner-brainm-e.png" width="200px">](https://brainminds.jp/en/)
-[<img src="banner-amed-en.png" width="200px">](https://www.amed.go.jp/en/)
+* On July 24 and 25, 2025, we organized [**Three Symposia on the Digital Brain**](https://digitalbrainproject.github.io/home/JNS2025symposia.html) during the Japan Neuroscience Society meeting in Toki Messe, Niigata.
+
+* On September 19-21, 2024, we organized [**The 1st Digital Brain Workshop**](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
