@@ -56,10 +56,19 @@ In addition to the core organization, 22 PIs were selected for [the priority res
 * Kosuka Hamaguchi, Kahoshima University: Transitions of decision making circuites
 * Teppei Matsui, Doshisha University: Cross-species brain image translation
 
-## Previous events
+## Previous Events
 
 * On July 23, 2025, we organized a [**Satellite Symposium: Connecting Digital Brains Across the World**](https://digitalbrainproject.github.io/home/JNS2025satellite.html) for the Japan Neuroscience Society meeting in Toki Messe, Niigata.
 
 * On July 24 and 25, 2025, we organized [**Three Symposia on the Digital Brain**](https://digitalbrainproject.github.io/home/JNS2025symposia.html) during the Japan Neuroscience Society meeting in Toki Messe, Niigata.
 
 * On September 19-21, 2024, we organized [**The 1st Digital Brain Workshop**](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
+
+## Links
+
+* [Digital Brain Seminar](../seminar)  
+* [Digital Brain Workshop](../workshop)  
+* [Digital Brain Team Page](../team)  
+* [Brain/MINDS 2.0](https://brainminds.jp)  
+* [Brain/MINDS Data Portal](https://dataportal.brainminds.jp)  
+* [Brain/MINDS Beyond Human Brain Brain MRI Data Portal](https://hbm.brainminds-beyond.jp)  
