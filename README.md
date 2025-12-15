@@ -56,13 +56,13 @@ In addition to the core organization, 22 PIs were selected for [the priority res
 
 ## Previous Events
 
-* On July 23, 2025, we organized a [**Satellite Symposium: Connecting Digital Brains Across the World**](https://digitalbrainproject.github.io/home/JNS2025satellite.html) for the Japan Neuroscience Society meeting in Toki Messe, Niigata.
+* On October 17-19, 2025, we organized [**The 2nd Digital Brain Workshop**](https://digitalbrainproject.github.io/workshop/) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
 
 * On July 24 and 25, 2025, we organized [**Three Symposia on the Digital Brain**](https://digitalbrainproject.github.io/home/JNS2025symposia.html) during the Japan Neuroscience Society meeting in Toki Messe, Niigata.
 
-* On September 19-21, 2024, we organized [**The 1st Digital Brain Workshop**](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
+* On July 23, 2025, we organized a [**Satellite Symposium: Connecting Digital Brains Across the World**](https://digitalbrainproject.github.io/home/JNS2025satellite.html) for the Japan Neuroscience Society meeting in Toki Messe, Niigata.
 
-* On October 17-19, 2025, we organized [**The 2nd Digital Brain Workshop**](https://digitalbrainproject.github.io/workshop/) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
+* On September 19-21, 2024, we organized [**The 1st Digital Brain Workshop**](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
 
 ## Links
 
@@ -72,4 +72,5 @@ In addition to the core organization, 22 PIs were selected for [the priority res
 * [Brain/MINDS 2.0](https://brainminds.jp)  
 * [Brain/MINDS Data Portal](https://dataportal.brainminds.jp)  
 * [Brain/MINDS Beyond Human Brain Brain MRI Data Portal](https://hbm.brainminds-beyond.jp)  
+
 
