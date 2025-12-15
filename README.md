@@ -11,8 +11,6 @@ A remarkable feature of this program is that the **Digital Brain** plays a centr
 * To facilitate discussions about how to build and to utilize digital brains, we organize [**Digital Brain Seminars**](https://digitalbrainproject.github.io/seminar/).
 Most of the talks are available on the [YouTube channel](https://www.youtube.com/@kennakae2779/videos).
 
-* On October 17-19, 2025, we will organized [**The 2nd Digital Brain Workshop**](https://digitalbrainproject.github.io/workshop/) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
-
 ## Core Organization
 
 RIKEN and seven partner institutions including OIST, ATR and Kyoto University were selected as the [Core Organization](https://brainminds.jp/en/core). The Group 4 is in charge of Digital Brain Development with the following PIs.
@@ -64,6 +62,8 @@ In addition to the core organization, 22 PIs were selected for [the priority res
 
 * On September 19-21, 2024, we organized [**The 1st Digital Brain Workshop**](https://boatneck-weeder-7b7.notion.site/Digtal-Brain-Workshop-131a68936dda4867a88fedd25dfaac92) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
 
+* On October 17-19, 2025, we organized [**The 2nd Digital Brain Workshop**](https://digitalbrainproject.github.io/workshop/) in collaboration with [Institute of Mathematics for Industry, Kyoshu University](https://www.imi.kyushu-u.ac.jp/en/)
+
 ## Links
 
 * [Digital Brain Seminar](../seminar)  
@@ -72,3 +72,4 @@ In addition to the core organization, 22 PIs were selected for [the priority res
 * [Brain/MINDS 2.0](https://brainminds.jp)  
 * [Brain/MINDS Data Portal](https://dataportal.brainminds.jp)  
 * [Brain/MINDS Beyond Human Brain Brain MRI Data Portal](https://hbm.brainminds-beyond.jp)  
+
