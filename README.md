@@ -10,12 +10,14 @@ A remarkable feature of this program is that the **Digital Brain** plays a centr
 
 We are developing [**Neuro-Workflow**](https://github.com/oist/neuro-workflow), an AI-assisted GUI tool for neural data analysis, model building, simulation, visualization, and optimization.
 
-We also developed [**OptiNist**](https://optinist.readthedocs.io/en/latest/) for calcium imaging data analysis pipelines. 
+We also developed [**OptiNiSt**](https://optinist.readthedocs.io/en/latest/) for calcium imaging data analysis pipelines. 
 
 ## Forthcoming Events
 
-* To facilitate discussions about how to build and to utilize digital brains, we organize [**Digital Brain Seminars**](https://digitalbrainproject.github.io/seminar/).
+* To facilitate discussions about how to build and to utilize digital brains, we organize [**Digital Brain Seminars**](https://digitalbrainproject.github.io/seminar/).  
 Most of the talks are available on the [YouTube channel](https://www.youtube.com/@kennakae2779/videos).
+
+* We are planning **the 3rd Digital Brain Workshop** on October 10-12, 2026 at Juntendo University Urayasu Hinode Campus.
 
 ## Previous Events
 
